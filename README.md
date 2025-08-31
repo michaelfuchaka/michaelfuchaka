@@ -36,7 +36,7 @@ A CLI-based event ticketing system built with Python and SQLite
 
 
 ## 📊 GitHub Stats
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelfuchaka&show_icons=true&theme=radical)  
+<!--![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelfuchaka&show_icons=true&theme=radical) --> 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelfuchaka&layout=compact&theme=radical)
 
