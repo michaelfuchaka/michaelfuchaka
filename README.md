@@ -1,11 +1,6 @@
 ## Hi there, I'm Michael Fuchaka!  👋
 
-I'm a passionate Software Engineering student with a deep interest in fullstack development. I love building end-to-end solutions that solve real-world problems and create meaningful user experiences.
-
-- 🎓 Currently studying Software Engineering
-- 💻 Passionate about fullstack development
-- 🌱 Always learning and exploring new technologies
-- 🎯 Looking for opportunities to collaborate on exciting projects
+I'm a passionate Software Engineering student with a deep interest in fullstack development. I love building end-to-end solutions that solve real-world problems and create meaningful user experiences.I'm also looking for opportunities to collaborate on exciting projects
 
 ## 🛠️ Tech Stack
 ### Frontend
