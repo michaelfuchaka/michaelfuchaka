@@ -1,7 +1,5 @@
-## Hi there 👋
- My Name is Michael Fuchaka! 
+## Hi there, I'm Michael Fuchaka!  👋
 
-## 🚀 About Me
 I'm a passionate Software Engineering student with a deep interest in fullstack development. I love building end-to-end solutions that solve real-world problems and create meaningful user experiences.
 
 - 🎓 Currently studying Software Engineering
