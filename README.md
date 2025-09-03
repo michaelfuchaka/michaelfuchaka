@@ -38,7 +38,8 @@
 
 ## 🤝 Let's Connect!
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fuchakamichael06@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/MrAbc254)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/MrAbc254)
+
 <!--
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
 
