@@ -1,6 +1,4 @@
-## Hi there, I'm Michael Fuchaka!  👋
-
-I'm a passionate Software Engineering student with a deep interest in fullstack development. I love building end-to-end solutions that solve real-world problems and create meaningful user experiences. I'm also looking for opportunities to collaborate on exciting projects
+👋 Hi, I'm Michael Fuchaka, Software Engineering student passionate about full-stack development and building impactful solutions.  
 
 ## 🛠️ Tech Stack
 ### Frontend
@@ -17,35 +15,26 @@ I'm a passionate Software Engineering student with a deep interest in fullstack 
 - Development: VS Code
 
 ## 🔥 Featured Projects
-### Tumaini-Health-System
-A comprehensive web-based financial management system designed for healthcare organizations to track income, expenses, and generate insightful financial reports with interactive visualizations
-- **Tech Stack:** HTML, JavaScript, CSS
-- **Features:** -Real-time Financial Dashboard with Interactive Visualizations, Comprehensive Transaction Management System
-- **[Live Demo](https://michaelfuchaka.github.io/Capstone-Project-Tumaini-Health-System/)** | **[Source Code](https://github.com/michaelfuchaka/Capstone-Project-Tumaini-Health-System)**
+- **[Tumaini Health System](https://github.com/michaelfuchaka/Capstone-Project-Tumaini-Health-System)**  
+  Financial management system with real-time dashboards & transaction tracking.  
+  🔗 [Live Demo](https://michaelfuchaka.github.io/Capstone-Project-Tumaini-Health-System/)
 
-### Event-Ticketing-System 
-A CLI-based event ticketing system built with Python and SQLite
-- **Tech Stack:** Python
-- **Features:** Data Persistence,Interactive CLI
-- **[Source Code](https://github.com/michaelfuchaka/event-ticketing-system)**
-
-
+- **[Event Ticketing System](https://github.com/michaelfuchaka/event-ticketing-system)**  
+  Python CLI app with SQLite for event management.  
 ## 📊 GitHub Stats
 <!--![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelfuchaka&show_icons=true&theme=radical) --> 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelfuchaka&layout=compact&theme=radical)
 
 ## 🎯 What I'm Currently Working On
-- 📚 Deepening my knowledge in [SQL]
-- 🔨 Building  [user-friendly e-commerce platform where customers can browse and shop for shoes across organized categories ]
-- 🌟 Contributing to open source projects
-- 📖 Learning [SQL]
-
+- 📚 Learning SQL & databases  
+- 🔨 Building an e-commerce shoe platform  
+- 🌟 Contributing to open-source projects
+- 
 ## 💡 Fun Facts About Me
-- ⚡ I enjoy solving coding challenges in my free time
-- 🎵 I listen to [genre] music while coding
-- 🌍 Based in [your location]
-- 📫 Always excited to connect with fellow developers
+- ⚡ Love solving coding challenges  
+- 🎵 Listen to Lo-fi & Afrobeat while coding  
+- 🌍 Based in Nairobi, Kenya  
 
 ## 🤝 Let's Connect!
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fuchakamichael06@gmail.com)
